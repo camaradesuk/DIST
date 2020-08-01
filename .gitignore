@@ -1,0 +1,17 @@
+packrat/lib*/*
+.Rproj.user
+.httr-oauth
+.RData
+.Rhistory
+packrat/src/*
+.Rprofile
+packrat/lib*/
+packrat/src/
+R/*configure*
+R/*Configure*
+output/*
+output/
+archive/
+archive/*
+data/
+data/*
